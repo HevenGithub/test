@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a3ef4fbe-c6e4-409e-9061-f211978cec27" name="阿里云" url="http://119.23.213.119">
+        <fileTransfer host="119.23.213.119" port="22" rootFolder="/www/wwwroot/www.heven.work" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
