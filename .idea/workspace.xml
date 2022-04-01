@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8ec81a9-ef5d-46b8-a8bc-694d2e75e451" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/命名空间/A.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/命名空间/B.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/命名空间/C.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/类的自动加载/Demo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/类的自动加载/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/计算机基础/md.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计模式/md.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/设计模式/工厂模式.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heven/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/heven/单例模式.php" beforeDir="false" afterPath="$PROJECT_DIR$/设计模式/单例模式.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weixin/.htaccess" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weixin/.user.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weixin/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weixin/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weixin/index.php" beforeDir="false" />
-    </list>
+    <list default="true" id="b8ec81a9-ef5d-46b8-a8bc-694d2e75e451" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,10 +36,11 @@
           <entry key="project.open.time.23" value="3" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -97,7 +81,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/设计模式/工厂模式.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="-884">
               <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
             </state>
           </provider>
@@ -228,17 +212,18 @@
       <workItem from="1648130699433" duration="1777000" />
       <workItem from="1648132531757" duration="1776000" />
       <workItem from="1648134511367" duration="1782000" />
+      <workItem from="1648136455008" duration="240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20281000" />
+    <option name="totallyTimeSpent" value="20521000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10503195" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10583067" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -385,7 +370,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/设计模式/工厂模式.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="-884">
           <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
         </state>
       </provider>
